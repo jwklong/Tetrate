@@ -8,6 +8,7 @@
   },
   "repository": "https://github.com/jwklong/Tetrate",
   "author": "jwklong",
+  "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2",
     "gulp": "^3.9.1",
